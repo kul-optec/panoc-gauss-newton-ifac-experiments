@@ -1,0 +1,5 @@
+casadi==3.5.5
+matplotlib==3.6.2
+numpy==1.23.4
+pandas==1.5.1
+alpaqa @ git+https://github.com/kul-optec/alpaqa@50ea3edaa6f3c79cb10f3f7816ef475606cd11c8
