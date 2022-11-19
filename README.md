@@ -17,3 +17,6 @@ pip install -r requirements.txt # takes a couple of minutes
 # Run the experiments and generate the figures
 make # takes some more minutes, close the figures to start next experiment
 ```
+
+If you wish to use a pre-built version of alpaqa rather than building from
+source, Wheel packages are available in the `dist` folder.
